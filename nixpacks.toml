@@ -1,0 +1,2 @@
+[phases.build]
+cmds = ["composer install --no-dev", "npm install && npm run build"]
